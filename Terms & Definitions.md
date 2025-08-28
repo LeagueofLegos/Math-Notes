@@ -14,3 +14,4 @@
 # THEOREMS
 * The Intermediate Value Theorem
 * The Mean Value Theorem
+# FORMULAS
