@@ -16,7 +16,7 @@
 * The Mean Value Theorem
 ## Maclaurin Series Theorem
 ### Definition
-
+The Maclaurin Series expansion is an approximation to a function using the sum of the deritives of the function evaluated at 0
 ### Formula 
 ### Purpose
 ### YouTube Explanation
