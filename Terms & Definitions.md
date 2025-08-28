@@ -1,4 +1,7 @@
-## NOTATION
+
+
+
+# NOTATION
 - :
 	- Such that
 - ⇒
@@ -9,5 +12,7 @@
 	- TBD
 - ∀
 	- For All
-- n x n 
-	- left n is rows while right n is columns
+-  Aᵢⱼ
+	- refers to the element located at the i-th row and n-th column of a matrix A
+	- 
+	  
