@@ -18,8 +18,10 @@
 ### Definition
 The Maclaurin Series expansion is an approximation to a function using the sum of the derivatives of the function evaluated at 0
 ### Formula 
-
+![[Maclaurin Series Formula.png]]
 ### Purpose
+Maclaurin Series enables us to rewrite many functions as polynomials using the formula
+
 ### YouTube Explanation
 
 https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
