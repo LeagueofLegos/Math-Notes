@@ -14,6 +14,9 @@
 # THEOREMS
 * The Intermediate Value Theorem
 * The Mean Value Theorem
-# FORMULAS
-## Maclaurin Series
+## Maclaurin Series Theorem
+### Definition
+### Formula 
+### Purpose
+### Youtube Explanation
 
