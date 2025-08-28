@@ -1,0 +1,13 @@
+## NOTATION
+- :
+	- Such that
+- ⇒
+	- Follows that
+- ∈
+	- Belongs that
+- ∃
+	- TBD
+- ∀
+	- For All
+- n x n 
+	- left n is rows while right n is columns
