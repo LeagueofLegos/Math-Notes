@@ -15,3 +15,5 @@
 * The Intermediate Value Theorem
 * The Mean Value Theorem
 # FORMULAS
+## Maclaurin Series
+
