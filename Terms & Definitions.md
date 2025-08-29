@@ -29,4 +29,6 @@ https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
 - Hyperbolic Functions
 	- ![[Hyperbolic Functions.png]]
 # Calculus Properties
-- 
+- Rules of Differentiation
+	- Basic Derivative Rules
+		- ![[.png]]
