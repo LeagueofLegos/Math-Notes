@@ -27,7 +27,9 @@ Maclaurin Series enables us to rewrite many functions as polynomials using the f
 https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
 # Fundamental Definitions
 - Hyperbolic Functions
-	- ![[Hyperbolic Functions.png]]
+	 ![[Hyperbolic Functions.png]]
+- Definition of Derivative
+	- ![[Definition of Derivative.png|500]]
 # Calculus Properties
 - Rules of Differentiation
 	- Basic Derivative Rules
