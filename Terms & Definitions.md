@@ -33,6 +33,6 @@ https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
 # Calculus Properties
 - Rules of Differentiation
 	- Basic Derivative Rules
-		- ![[Basic Derivative Rules.png]]
-	- Trigonometric Derivative Rules
-		- ![[Trigonometric Functions.png|400]]
+		 ![[Basic Derivative Rules.png]]
+	-  Derivative Rules
+		- ![[Derivative Rules.png]]
