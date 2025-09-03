@@ -11,6 +11,8 @@
 	- For All
 -  Aᵢⱼ
 	- refers to the element located at the i-th row and n-th column of a matrix A
+- ∑
+	- Summation
 # THEOREMS
 * The Intermediate Value Theorem
 * The Mean Value Theorem
@@ -20,10 +22,8 @@ The Maclaurin Series expansion is an approximation to a function using the sum o
 ### Formula 
 ![[Maclaurin Series Formula.png]]
 ### Purpose
-Maclaurin Series enables us to rewrite many functions as polynomials using the formula
-
+The Maclaurin series is a tool to approximate a function by turning it into a polynomial.
 ### YouTube Explanation
-
 https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
 # Fundamental Definitions
 - Hyperbolic Functions
@@ -34,3 +34,5 @@ https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
 - Rules of Differentiation
 	- Basic Derivative Rules
 		- ![[Basic Derivative Rules.png]]
+	- Trigonometric Derivative Rules
+		- ![[Trigonometric Functions.png|400]]
