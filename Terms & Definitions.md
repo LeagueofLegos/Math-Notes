@@ -26,8 +26,6 @@ The Maclaurin series is a tool to approximate a function by turning it into a po
 ### YouTube Explanation
 https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
 # Fundamental Definitions
-- Hyperbolic Functions
-	 ![[Hyperbolic Functions.png]]
 - Definition of Derivative
 	- ![[Definition of Derivative.png|500]]
 # Calculus Properties
@@ -36,3 +34,5 @@ https://youtu.be/t4z8H-kRVGs?si=Mjv5nXBvpO21Ff__
 		 ![[Basic Derivative Rules.png]]
 	-  Derivative Rules
 		- ![[Derivative Rules.png]]
+- Hyperbolic Functions
+	- ![[Hyperbolic Functions.png]]
