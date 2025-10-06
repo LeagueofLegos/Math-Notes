@@ -6,7 +6,7 @@
 - ∈
 	- Belongs that
 - ∃
-	- TBD
+	- There Exists
 - ∀
 	- For All
 -  Aᵢⱼ
